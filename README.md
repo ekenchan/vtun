@@ -8,11 +8,15 @@
 
 ## 依赖
 
+```sh
 lzo2
 openssl
+```
 
 ## 编译
 
+```sh
 ./configure
 make
 make install
+```
